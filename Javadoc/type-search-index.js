@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"interfacePriorityQueue"},{"p":"<Unnamed>","l":"MainJavaCollection"},{"p":"<Unnamed>","l":"MainVectorHeap"},{"p":"<Unnamed>","l":"MyTests"},{"p":"<Unnamed>","l":"Patient"},{"p":"<Unnamed>","l":"VectorHeap"}]
